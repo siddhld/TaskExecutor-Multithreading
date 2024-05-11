@@ -64,4 +64,4 @@ More complex to manage
 May introduce potential errors if not configured correctly
 Choosing the Right Option:
 
-## The best choice between a dynamic thread pool and our own custom configuration depends on our specific needs. For simple workloads, the dynamic thread pool offers a quick and easy solution. But for complex workloads or when you need more control, a custom configuration can be beneficial.
+### The best choice between a dynamic thread pool and our own custom configuration depends on our specific needs. For simple workloads, the dynamic thread pool offers a quick and easy solution. But for complex workloads or when you need more control, a custom configuration can be beneficial.
